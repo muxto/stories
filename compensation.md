@@ -6,7 +6,8 @@
 **Джимми Веласко**
 
 Экстремал и правонарушитель, накачанный, ходит в майке, кедах и карго-штанах
-![alt text](/compensation_images/jimmy.jpg "Вин Дизель")
+
+![image jimmy](/compensation_images/jimmy.jpg "Вин Дизель")
 
 **Роберт (Боб) Пайк**
 
